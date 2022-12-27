@@ -5,6 +5,7 @@ on:
       - 'gke_tf/**'
       - 'worker_nodes/**'
     branches:
+      - rdc-egov-test
       - rdc-egov-demo
       - rdc-egov-evisas
   pull_request:
