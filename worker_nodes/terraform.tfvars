@@ -6,6 +6,6 @@ node_pool_name         = "production-cluster-node-pool-2"
 master_version         = "1.15.12-gke.3"
 worker_nodes_version   = "1.15.12-gke.3"
 node_locations         = ["us-east1-b"]
-worker_nodes_count     = "1"
+worker_nodes_count     = "2"
 worker_nodes_disk_size = "100"
 worker_node_type       = "n1-standard-1"
